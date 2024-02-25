@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Traismer
-- 👀 I'm new to Python development 
-- 🌱 I’m currently studying by myself
 - 📫 How to reach me alekstrais@yandex.ru
 
 <!---
